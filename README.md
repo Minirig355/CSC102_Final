@@ -1,4 +1,4 @@
-"# CSC102 - FINAL
+# CSC102 - FINAL
 
 Changed the main page from the meme page to this landing page that has a little about me section, meme page is now ./config/pages/meme.html
 
